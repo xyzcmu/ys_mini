@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Xyz/Code/mini/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Xyz\\Code\\mini\\include -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD /FoCMakeFiles\\mini.dir\\main.cpp.obj /FdCMakeFiles\\mini.dir\\ /FS -c C:\\Xyz\\Code\\mini\\main.cpp",
+  "file": "C:\\Xyz\\Code\\mini\\main.cpp",
+  "output": "CMakeFiles\\mini.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Xyz/Code/mini/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Xyz\\Code\\mini\\include -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD /FoCMakeFiles\\mini.dir\\gameWindow.cpp.obj /FdCMakeFiles\\mini.dir\\ /FS -c C:\\Xyz\\Code\\mini\\gameWindow.cpp",
+  "file": "C:\\Xyz\\Code\\mini\\gameWindow.cpp",
+  "output": "CMakeFiles\\mini.dir\\gameWindow.cpp.obj"
+},
+{
+  "directory": "C:/Xyz/Code/mini/build",
+  "command": "C:\\PROGRA~1\\MICROS~2\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Xyz\\Code\\mini\\include -external:IC:\\opencv\\build\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD /FoCMakeFiles\\mini.dir\\gameInput.cpp.obj /FdCMakeFiles\\mini.dir\\ /FS -c C:\\Xyz\\Code\\mini\\gameInput.cpp",
+  "file": "C:\\Xyz\\Code\\mini\\gameInput.cpp",
+  "output": "CMakeFiles\\mini.dir\\gameInput.cpp.obj"
+}
+]

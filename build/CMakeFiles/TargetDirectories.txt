@@ -1,0 +1,3 @@
+C:/Xyz/Code/mini/build/CMakeFiles/mini.dir
+C:/Xyz/Code/mini/build/CMakeFiles/edit_cache.dir
+C:/Xyz/Code/mini/build/CMakeFiles/rebuild_cache.dir

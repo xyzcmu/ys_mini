@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Open MSVC Developer Terminal",
+            "command": "cmd.exe",
+            "args": [
+                "/k",
+                "call",
+                "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Auxiliary\\Build\\vcvarsall.bat",
+                "x64"
+            ],
+            "group": "none",
+            "presentation": {
+                "reveal": "always",
+                "panel": "new",    // 每次运行都开一个新的独立终端窗口
+                "focus": true,     // 自动把光标聚焦到该终端，方便直接敲命令
+                "clear": false
+            },
+            "problemMatcher": []
+        }
+    ]
+}

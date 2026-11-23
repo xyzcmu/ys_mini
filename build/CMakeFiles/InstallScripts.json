@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Xyz/Code/mini/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
